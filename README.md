@@ -1,5 +1,6 @@
-# Passqord-Generator
-Question: Write a Python program that generates a random password with a length specified by the user. The password should include at least one uppercase letter, one lowercase letter, one digit, and one special character. The program should then print the generated password
+# Password-Generator
+Question: 
+Write a Python program that generates a random password with a length specified by the user. The password should include at least one uppercase letter, one lowercase letter, one digit, and one special character. The program should then print the generated password
 
 Explanation:
 
