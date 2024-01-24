@@ -3,10 +3,10 @@
 This Python code generates secure, random passwords of any desired length.
 
 # Features
-a. Strong password creation: Generates passwords that meet common complexity requirements, including a mix of lowercase letters, uppercase letters, digits, and special characters.
-b. User-defined length: Allows users to specify the desired length of the password for flexibility.
-c. Random character selection: Ensures unpredictability by randomly selecting characters from different character sets.
-d. Even distribution of character types: Aims for a balanced distribution of lowercase, uppercase, digits, and special characters within the password.
+* **Strong password creation:** Generates passwords that meet common complexity requirements, including a mix of lowercase letters, uppercase letters, digits, and special characters.
+* **User-defined length:** Allows users to specify the desired length of the password for flexibility.
+* **Random character selection:** Ensures unpredictability by randomly selecting characters from different character sets.
+* **Even distribution of character types:** Aims for a balanced distribution of lowercase, uppercase, digits, and special characters within the password.
 
 #Usage
 1. Install Python: Ensure you have Python installed on your system. Download it from https://www.python.org/ if needed.
