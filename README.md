@@ -8,7 +8,7 @@ This Python code generates secure, random passwords of any desired length.
 * **Random character selection:** Ensures unpredictability by randomly selecting characters from different character sets.
 * **Even distribution of character types:** Aims for a balanced distribution of lowercase, uppercase, digits, and special characters within the password.
 
-#Usage
+# Usage
 1. Install Python: Ensure you have Python installed on your system. Download it from https://www.python.org/ if needed.
 2. Run the script:
    : Open a terminal or command prompt.
